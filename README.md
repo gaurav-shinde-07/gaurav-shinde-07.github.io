@@ -1,73 +1,64 @@
-# Portfolio Website 🚀
+# Gaurav Shinde - Portfolio Website
 
-## Overview
-Modern and responsive portfolio website showcasing my professional journey, projects, and technical expertise.
+[![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fgaurav-shinde-07.github.io)](https://gaurav-shinde-07.github.io)
+[![Last Updated](https://img.shields.io/github/last-commit/gaurav-shinde-07/gaurav-shinde-07.github.io)](https://github.com/gaurav-shinde-07/gaurav-shinde-07.github.io/commits/main)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-## 🛠️ Built With
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap 4
-- jQuery
-- AOS Library
-- Owl Carousel
+## 📌 Overview
+A modern, responsive portfolio website built to showcase my professional journey, technical expertise, and project accomplishments. The site features interactive elements, smooth animations, and a user-friendly interface.
 
-## ✨ Key Features
-- Responsive Design
-- Dynamic Typing Animation
-- Project Showcase with Zoom Effects
-- Skills Progress Visualization
-- Interactive Contact Form
-- Social Media Integration
-- Real-time Visitor Counter
-- Smooth Scroll Navigation
+## 🎯 Core Features
+- **Responsive Design**: Seamlessly adapts to all device sizes
+- **Interactive UI**: Dynamic typing animations and smooth transitions
+- **Project Showcase**: Detailed portfolio with live demos
+- **Performance Optimized**: Fast loading and efficient code
+- **Cross-Browser Compatible**: Works on all modern browsers
 
-## 📁 Project Structure
+## 🛠️ Technology Stack
+| Category | Technologies |
+|----------|-------------|
+| Frontend | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| Framework | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) |
+| Libraries | ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white) ![AOS](https://img.shields.io/badge/AOS-7952B3?style=flat) |
+
+## 🚀 Quick Start
+
+```bash
+# Clone the repository
+git clone https://github.com/gaurav-shinde-07/gaurav-shinde-07.github.io.git
+
+# Navigate to project directory
+cd gaurav-shinde-07.github.io
+
+# Open in default browser
+start index.html  # Windows
+open index.html   # macOS
+xdg-open index.html  # Linux
 ```
-.
+
+## 📂 Project Structure
+```
+portfolio/
 ├── css/
-│   ├── style.css
-│   ├── animate.css
+│   ├── style.css        # Custom styles
+│   ├── animate.css      # Animation library
 │   └── bootstrap.min.css
 ├── js/
-│   └── main.js
-├── images/
-├── index.html
+│   └── main.js          # Custom JavaScript
+├── images/             # Asset directory
+├── index.html          # Main entry point
 └── README.md
 ```
 
-## 🚀 Quick Start
-1. Clone the repository
-```bash
-git clone https://github.com/gaurav-shinde-07/gaurav-shinde-07.github.io.git
-```
+## 🔗 Connect With Me
 
-2. Navigate to project directory
-```bash
-cd gaurav-shinde-07.github.io
-```
-
-3. Open in browser
-```bash
-start index.html
-```
-
-## 📱 Website Sections
-- **Home**: Personal introduction with dynamic typing
-- **About**: Professional summary and skills
-- **Resume**: Experience and education timeline
-- **Projects**: Featured work and achievements
-- **Contact**: Get in touch section
-
-## 🔗 Live Demo
-Visit: [Gaurav's Portfolio](https://gaurav-shinde-07.github.io/)
-
-## 📫 Connect With Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://gaurav-shinde-07.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauravshinde2307s/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gaurav-shinde-07)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/gauravv_shinde_/)
 
-
+## 📝 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-Created with ❤️ by Gaurav Shinde
+
